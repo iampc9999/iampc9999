@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampc9999&label=Profile%20views&color=0e75b6&style=flat" alt="iampc9999" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iampc9999" alt="iampc9999" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/iampc9999" target="blank"><img src="https://img.shields.io/twitter/follow/iampc9999?logo=twitter&style=for-the-badge" alt="iampc9999" /></a> </p>
 
 - 🌱 I’m currently learning **🌐 **DevOps with AWS**: Learning to manage cloud infrastructure, deploy scalable applications, and automate workflows. - 🐳 **Containerization**: Understanding how to package and deploy applications with Docker and orchestrate them using Kubernetes. - ⚙️ **CI/CD Pipelines**: Automating software delivery for faster and reliable deployments.**
