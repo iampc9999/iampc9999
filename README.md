@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Poorna Chowdary</h1>
+<h1 align="center">Hi 👋, I'm Poorna </h1>
 <h3 align="center">a fresher DevOps enthusiast with a passion for building efficient, automated, and scalable systems. My goal is to bridge the gap between development and operations by leveraging cutting-edge tools and practices in DevOps.</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampc9999&label=Profile%20views&color=0e75b6&style=flat" alt="iampc9999" /> </p>
 
 <p align="left"> <a href="https://twitter.com/iampc9999" target="blank"><img src="https://img.shields.io/twitter/follow/iampc9999?logo=twitter&style=for-the-badge" alt="iampc9999" /></a> </p>
